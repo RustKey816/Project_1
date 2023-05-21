@@ -14,9 +14,9 @@ ESP32-S3-EYE 是[乐鑫](https://www.espressif.com/zh-hans/home)推出的一款�
   
   
 整体系统架构图:  
-<center>
-| ![系统架构](Project_img/系统架构.png) |  
-|:--:| 
-|系统架构|
+<center>    
+| ![系统架构](Project_img/系统架构.png) |    
+|:--:|   
+|系统架构|  
 
-</center> 
+</center>   
